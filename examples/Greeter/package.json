@@ -1,0 +1,15 @@
+{
+    "name": "repo-template-greeter",
+    "version": "0.0.0",
+    "description": "A simple greeter using repo-template",
+    "main": "index.js",
+    "author": "Repo Template",
+    "private": true,
+    "license": "MIT",
+    "dependencies": {
+        "repo-template": "^1.0.0"
+    },
+    "scripts": {
+        "start": "node index.js"
+    }
+}
