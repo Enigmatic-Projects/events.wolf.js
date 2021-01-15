@@ -1,5 +1,5 @@
-import Greeter from "./Greeter";
+import Events from "./Events";
 
-export { Greeter };
-
-module.exports.Greeter = Greeter;
+export {
+    Events
+}
