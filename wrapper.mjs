@@ -1,3 +1,3 @@
-import { Events } from './dist/index';
+import repotemplate from './dist/index';
 
-export { Events }
+export const Greeter = repotemplate.Greeter;
